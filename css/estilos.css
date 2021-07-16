@@ -35,12 +35,8 @@ body{
 }
 
 #post{
-<<<<<<< HEAD
     background: white;
     font-size: 20;
-}
-=======
-font-size: 20;
 }
 
 #footer
@@ -50,4 +46,3 @@ font-size: 20;
     text-align: center;
     padding: 0.5mm;
 }
->>>>>>> footer
